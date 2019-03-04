@@ -1,0 +1,53 @@
+body{
+	background-image: url(brownfolio.png);
+	height: auto;
+	width: auto;
+	color: white;
+}
+#hadder p{
+	color: #af9671;
+}
+
+#hadder  a{
+	padding-top: 40px;
+	
+}
+#hadder p{
+	
+}
+#hadder li a{
+	color: #af9671;
+}
+.hedder-page p{
+	color: white;
+}
+.hedder-page h3{
+	color: #af9671;
+}
+#portfolio h5{
+	color:#af9671;
+	padding-top: 5px;
+	font-size: 16px;
+	margin: 0px;
+}
+#portfolio p{
+	color:white;
+	font-size: 14px;
+}
+#service{
+	color:#af9671;
+	font-size: 20px;
+	padding-top: 5px;
+}
+#service h5{
+	color:#af9671;
+	padding-top: 5px;
+	font-size: 16px;
+	margin: 0px;
+	padding-top: 10px;
+}
+#service p{
+	color: white;
+	font-size: 16px;
+}
+
